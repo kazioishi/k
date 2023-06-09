@@ -1,35 +1,24 @@
 ---
 academia:
-- course:
-    degree: Ph.D.
-    institution: University of Melbourne
-    major: Ecological Modeling
-    start_date: "2018"
-    end_date: "2023"
-- course:
-    degree: M.Phil.
-    institution: University of Melbourne
-    major: Climate Change and Ecology - 90% marks
-    start_date: "2016"
-    end_date: "2018"
+
 - course:
     degree: M.Sc.
-    institution: University of Dhaka
-    major: Zoology (Wildlife) - Gold Medal
-    start_date: "2011"
-    end_date: "2012"
+    institution: Jahangirnagar University
+    major: Geography and Environment
+    start_date: "2019"
+    end_date: "2020"
 - course:
     degree: B.Sc. (Hons)
-    institution: University of Dhaka
-    major: Zoology - Dean's Award
-    start_date: "2007"
-    end_date: "2011"
+    institution: Jahangirnagar University
+    major: Geography and Environment
+    start_date: "2019"
+    end_date: "2016"
     
 affiliations:
 - affiliation:
-    email: anwar79du@gmail.com
-    name: University of Melbourne
-    title: Ecologist
+    email: isratjahan.ijo@gmail.com
+    name: Jahangirnagar University
+    title: Geographer
     
 blog: true
 
